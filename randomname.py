@@ -1,5 +1,4 @@
 import random
-import string
 
 # Ask how many EC2 instances do the users want names for then ask for user input department name 
 how_many = int(input('Enter how many EC2 names you\'d like generated: '))
